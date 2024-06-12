@@ -1,0 +1,8 @@
+C:\Users\mahpi\gh\repos\csc260-2024\csc260_2024\Assignment3\EarleyStonearrowAssignment3\bin\Debug\EarleyStonearrowAssignment3.exe.config
+C:\Users\mahpi\gh\repos\csc260-2024\csc260_2024\Assignment3\EarleyStonearrowAssignment3\bin\Debug\EarleyStonearrowAssignment3.exe
+C:\Users\mahpi\gh\repos\csc260-2024\csc260_2024\Assignment3\EarleyStonearrowAssignment3\bin\Debug\EarleyStonearrowAssignment3.pdb
+C:\Users\mahpi\gh\repos\csc260-2024\csc260_2024\Assignment3\EarleyStonearrowAssignment3\obj\Debug\EarleyStonearrowAssignment3.csproj.AssemblyReference.cache
+C:\Users\mahpi\gh\repos\csc260-2024\csc260_2024\Assignment3\EarleyStonearrowAssignment3\obj\Debug\EarleyStonearrowAssignment3.csproj.SuggestedBindingRedirects.cache
+C:\Users\mahpi\gh\repos\csc260-2024\csc260_2024\Assignment3\EarleyStonearrowAssignment3\obj\Debug\EarleyStonearrowAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\mahpi\gh\repos\csc260-2024\csc260_2024\Assignment3\EarleyStonearrowAssignment3\obj\Debug\EarleyStonearrowAssignment3.exe
+C:\Users\mahpi\gh\repos\csc260-2024\csc260_2024\Assignment3\EarleyStonearrowAssignment3\obj\Debug\EarleyStonearrowAssignment3.pdb
